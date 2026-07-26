@@ -10,3 +10,4 @@ Please fill out the form below to submit your homework:
 | ------------------------------------------------------------| :-------------------:| 
 | [Intro to JavaScript Functions Lab](https://github.com/Bahrain-SEB-15/intro-to-javascript-functions-lab/)    | Mon 27-Jul | 
 | [Intro to JavaScript Arrays Lab](https://github.com/Bahrain-SEB-15/intro-to-javascript-arrays-lab)    | Tue 28-Jul | 
+| [Intro to JavaScript Objects Lab](https://github.com/Bahrain-SEB-15/intro-to-javascript-objects-lab)    | Thu 30-Jul | 
