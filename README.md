@@ -6,6 +6,10 @@ Please fill out the form below to submit your homework:
 
 **All Homeworks are due after 2 Business Days, at 9:00AM the morning of the due date**
 
+| Unit 2 Homework  | Due Date: | 
+| ------------------------------------------------------------| :-------------------:| 
+| [Intro to Express Lab](https://github.com/Bahrain-SEB-15/intro-to-express-lab/)    | Wed 12-Aug | 
+
 | Unit 1 Homework  | Due Date: | 
 | ------------------------------------------------------------| :-------------------:| 
 | [Intro to JavaScript Functions Lab](https://github.com/Bahrain-SEB-15/intro-to-javascript-functions-lab/)    | Mon 27-Jul | 
