@@ -10,6 +10,7 @@ Please fill out the form below to submit your homework:
 | ------------------------------------------------------------| :-------------------:| 
 | [Intro to Express Lab](https://github.com/Bahrain-SEB-15/intro-to-express-lab/)    | Wed 12-Aug | 
 | [EJS Lab](https://github.com/Bahrain-SEB-15/EJS-LAB)    | Thu 13-Aug | 
+| [MEN Stack CRUD App Lab](https://github.com/Bahrain-SEB-15/men-stack-crud-app-lab)    | Mon 17-Aug | 
 
 | Unit 1 Homework  | Due Date: | 
 | ------------------------------------------------------------| :-------------------:| 
