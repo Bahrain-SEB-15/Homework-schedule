@@ -14,7 +14,6 @@ Please fill out the form below to submit your homework:
 | [Controlled Forms in React Lab](https://github.com/Bahrain-SEB-15/controlled-forms-in-react-lab)    | Mon 7-Sep | 
 | [Lifting State in React Lab](https://github.com/Bahrain-SEB-15/lifting-state-in-react-lab)    | Mon 7-Sep | 
 | [React Router DOM Lab](https://github.com/Bahrain-SEB-15/react-router-dom-lab)    | Tue 8-Sep | 
-| [Express API Jukebox Back-End Lab](https://github.com/Bahrain-SEB-15/express-api-jukebox-back-end-lab)    | Wed 9-Sep | 
 
 | Unit 2 Homework  | Due Date: | 
 | ------------------------------------------------------------| :-------------------:| 
