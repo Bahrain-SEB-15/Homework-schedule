@@ -10,6 +10,7 @@ Please fill out the form below to submit your homework:
 | ------------------------------------------------------------| :-------------------:| 
 | [Python Control Flow Lab](https://github.com/Bahrain-SEB-15/python-for-javascript-developers-control-flow-lab)    | Wed 23-Sep | 
 | [Python Functions Lab](https://github.com/Bahrain-SEB-15/python-for-javascript-developers-functions-lab)    | Thu 24-Sep | 
+| [Python Data Structures Lab](https://github.com/Bahrain-SEB-15/python-for-javascript-developers-data-structures-lab)    | Thu 24-Sep | 
 
 | Unit 3 Homework  | Due Date: | 
 | ------------------------------------------------------------| :-------------------:| 
